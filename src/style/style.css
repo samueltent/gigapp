@@ -1,0 +1,40 @@
+.container-fluid {
+    text-align: center;
+    padding: 3%;
+}
+
+.navibar {
+    padding: 1%;
+}
+
+.search-box {
+    padding:10%;
+}
+
+.about1 {
+    margin-top: 10%;
+}
+
+h2{
+    padding: 5%;
+}
+
+.lg-icon > i {
+    font-size: 64px;
+}
+
+.mid-icon > i {
+    font-size: 32px;
+}
+
+.logos-padding {
+    padding: 5%;
+}
+
+.partner-card {
+    margin: 5%;
+}
+
+.test-card {
+    margin: 3%;
+}
